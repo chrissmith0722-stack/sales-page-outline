@@ -22,7 +22,7 @@ Fill each section; delete what you don't need. Keep above-the-fold ruthless.
 ## 4. What's inside
 
 | Item | Format | Benefit |
-|------|--------|--------|
+|------|--------|---------|
 | Core template | PDF/Notion | … |
 | Bonus checklist | MD | … |
 | Quickstart | 2-min video/PDF | … |
